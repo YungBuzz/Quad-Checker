@@ -1,0 +1,17 @@
+package main
+
+func only1(s string) bool {
+	for 1, c := range s{
+
+	}
+}package main
+
+func onlya (s string bool) {
+	for _, c := range s {
+		if c != 'a' {
+
+		}
+		return false
+	}
+	return true
+}
